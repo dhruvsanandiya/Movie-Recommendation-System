@@ -1,4 +1,4 @@
-# Movie-recommendation-system
+# Movie-Recommendation-System
 
 ## About  
 This Content Based Filtering Movie Recommender is built on a [flask app]
